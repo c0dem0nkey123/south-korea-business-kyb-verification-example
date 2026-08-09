@@ -27,6 +27,6 @@ Get your free API key from [RapidAPI Marketplace](https://rapidapi.com/c0dem0nke
 Clone this repository and install dependencies:
 
 ```bash
-git clone [https://github.com/c0dem0nkey123/south-korea-business-kyb-verification-example.git](https://github.com/c0dem0nkey123/south-korea-business-kyb-verification-example.git)
+git clone https://github.com/c0dem0nkey123/south-korea-business-kyb-verification-example.git
 cd south-korea-business-kyb-verification-example
 pip install -r requirements.txt
