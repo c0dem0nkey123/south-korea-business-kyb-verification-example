@@ -24,7 +24,7 @@ When onboarding South Korean corporate clients, suppliers, or vendors, internati
 All requests are sent via HTTP GET to the `/v1/verify` endpoint.
 
 - **`brn`** (required, string): The 10-digit Business Registration Number (사업자등록번호) issued by the National Tax Service of South Korea.
-- **Format**: 10 digits without hyphens (e.g., `1248100998`) or with hyphens (e.g., `124-81-00998`).
+- **Format**: 10 digits without hyphens (e.g., `1248100998`).
 - **Test Example**: `1248100998` (Samsung Electronics)
 
 ---
